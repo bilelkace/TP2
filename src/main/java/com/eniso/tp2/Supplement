@@ -1,0 +1,1 @@
+Si les methodes sont public il n'est pas necessaire de créer les methodes getter et setter pour acceder ou modifier ces attributs 
